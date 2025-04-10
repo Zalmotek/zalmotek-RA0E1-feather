@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<azone>
+    <rzone name="R7FA0E1073CFJ.rzone"/>
+    <partition>
+        <peripheral name="PORT1" group="PORT">
+            <slot name="P108" secure="false"/>
+        </peripheral>
+        <peripheral name="PORT2" group="PORT">
+            <slot name="P207" secure="false"/>
+            <slot name="P208" secure="false"/>
+        </peripheral>
+        <peripheral name="PORT3" group="PORT">
+            <slot name="P300" secure="false"/>
+        </peripheral>
+        <peripheral name="PORT9" group="PORT">
+            <slot name="P913" secure="false"/>
+            <slot name="P914" secure="false"/>
+        </peripheral>
+        <peripheral name="UARTA0" group="UARTA" security=""/>
+        <peripheral name="IICA0" group="IICA" security=""/>
+        <peripheral name="ICU">
+            <slot name="IRQ26" secure="false"/>
+            <slot name="IRQ39" secure="false"/>
+            <slot name="IRQ40" secure="false"/>
+            <slot name="IRQ41" secure="false"/>
+        </peripheral>
+    </partition>
+</azone>
