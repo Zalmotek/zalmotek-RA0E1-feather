@@ -78,5 +78,5 @@ This project uses code from the Adafruit NeoPixel Library, which is licensed und
 ## Additional Resources
 
 - [Zalmotek Website](https://zalmotek.com)
-- [Renesas RA0E1 Documentation](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra0e1-48mhz-arm-cortex-m0-ultra-low-power-general-purpose-microcontrollers)
+- [Zalmotek RA0E1 Documentation](https://zalmotek.com/products/RA0E1-Feather-SoM/)
 - [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel) 
