@@ -8,7 +8,7 @@ This project demonstrates SPI communication between a Zalmotek RA0E1 Feather boa
 
 ## Hardware Requirements
 
-- Zalmotek RA0E1 Feather board (featuring Renesas RA0E1 microcontroller)
+- Zalmotek RA0E1 Feather board
 - MAX31723 temperature sensor
 - Connecting wires
 - USB cable for power and communication
