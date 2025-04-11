@@ -8,7 +8,7 @@ This project demonstrates basic GPIO control on the Zalmotek RA0E1 Feather board
 
 ## Hardware Requirements
 
-- Zalmotek RA0E1 Feather board (featuring Renesas R7FA0E1073CFJ)
+- Zalmotek RA0E1 Feather board 
 - USB connection for programming
 
 ## Software Requirements
