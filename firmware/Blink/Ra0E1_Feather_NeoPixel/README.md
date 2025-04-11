@@ -8,7 +8,7 @@ This project demonstrates how to control NeoPixel RGB LEDs using a Zalmotek RA0E
 
 ## Hardware Requirements
 
-- Zalmotek RA0E1 Feather board (featuring Renesas RA0E1 microcontroller)
+- Zalmotek RA0E1 Feather board 
 - NeoPixel RGB LED(s)
 - Jumper wires
 - USB cable for programming and power
