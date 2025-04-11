@@ -78,5 +78,5 @@ This project uses code from the Adafruit NeoPixel Library, which is licensed und
 ## Additional Resources
 
 - [Zalmotek Website](https://zalmotek.com)
-- [Zalmotek RA0E1 Documentation](https://zalmotek.com/products/RA0E1-Feather-SoM/)
+- [Zalmotek RA0E1 Website](https://zalmotek.com/products/RA0E1-Feather-SoM/)
 - [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel) 
