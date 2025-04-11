@@ -8,7 +8,7 @@ This project demonstrates I2C master communication between the Zalmotek Ra0E1 Fe
 
 ## Hardware Requirements
 
-- Zalmotek Ra0E1 Feather board (featuring Renesas Ra0E1 microcontroller)
+- Zalmotek Ra0E1 Feather board 
 - ADXL345 accelerometer sensor
 - Connection cables
 - USB cable for power and data transfer
