@@ -16,7 +16,7 @@ The Feather SoM incorporates the classic Feather features: GPIOs (analog and dig
 
 ### 🔌 Hardware Requirements
 - USB-C cable
-- [J-Link BASE debugger](https://www.segger.com/products/debug-probes/j-link/models/j-link-base/)
+- JTAG Degugger, such as the [SEGGER J-Link](https://www.segger.com/products/debug-probes/j-link/)
 
 ### 💻 Development Environment Setup
 
@@ -30,5 +30,9 @@ The installer will guide you through the necessary steps. After the installation
 
 You will also need to install the J-Link Software pack from [here](https://www.segger.com/products/debug-probes/j-link/technology/flash-download/).
 
+#### Running your first project
+
+
+
 ---
-Thank you for choosing the Zalmotek RA0E1 Feather SoM! We can't wait to see what amazing projects you'll create with it. Happy tinkering! 💻✨
+Thank you for choosing the Zalmotek RA0E1 Feather SoM! We can't wait to see what amazing projects you'll create with it! 💻✨
