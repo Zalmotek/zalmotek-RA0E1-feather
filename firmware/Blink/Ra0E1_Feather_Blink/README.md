@@ -62,5 +62,5 @@ This project is provided for educational purposes.
 ## Additional Resources
 
 - [Zalmotek Website](https://zalmotek.com)
-- [Renesas RA0E1 Documentation](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra0e1-32-mhz-arm-cortex-m23-ultra-low-power)
+- [Zalmotek RA0E1 Website](https://zalmotek.com/products/RA0E1-Feather-SoM/)
 - [FSP Documentation](https://www.renesas.com/us/en/software-tool/flexible-software-package-fsp) 
