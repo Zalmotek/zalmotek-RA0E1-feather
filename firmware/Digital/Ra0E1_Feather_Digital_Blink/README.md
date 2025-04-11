@@ -8,7 +8,7 @@ This project demonstrates basic digital output control by sequentially toggling 
 
 ## Hardware Requirements
 
-- Zalmotek RA0E1 Feather board (featuring Renesas RA0E1 microcontroller)
+- Zalmotek RA0E1 Feather board 
 - LEDs (optional, for visual feedback)
 - Jumper wires (if using external LEDs)
 - USB cable for programming and power
