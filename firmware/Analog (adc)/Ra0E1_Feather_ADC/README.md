@@ -74,5 +74,5 @@ BSD-3-Clause
 ## Additional Resources
 
 - [Zalmotek Website](https://zalmotek.com)
-- [Zalmotek RA0E1 Documentation](https://zalmotek.com/products/RA0E1-Feather-SoM/)
+- [Zalmotek RA0E1 Website](https://zalmotek.com/products/RA0E1-Feather-SoM/)
 - [FSP Documentation](https://www.renesas.com/us/en/software-tool/flexible-software-package-fsp) 
