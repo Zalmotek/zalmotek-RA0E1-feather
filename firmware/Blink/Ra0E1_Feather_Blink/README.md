@@ -57,7 +57,7 @@ Next, in the Pins tab, you may need to adjust this for future projects, based on
 </p>
 
 3. Connect your Zalmotek RA0E1 Feather board via USB
-4. 4. Build the project
+4. Build the project
 5. Flash the firmware to the board
 
 To run the project, click Generate Project Content, and then you can Build the project and Debug it. In the prompt that pops up, choose Debug as Renesas GDB Hardware Debugging. Click the Resume icon to begin executing the project. Reset the board and now the USR LED should be blinking.
