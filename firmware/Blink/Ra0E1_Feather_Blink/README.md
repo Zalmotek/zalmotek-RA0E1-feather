@@ -40,7 +40,7 @@ The main application:
    In e² studio go to File -> Import..., choose "Existing Projects into Workspace" and browse to the project you’ve just downloaded, then click Finish:
    
 <p align="center">
-  <img src="zalmotek-RA0E1-feather//1.png" height="500">
+  <img src="1.png" height="500">
   <img src="/2.png" height="500">
 </p>
 
