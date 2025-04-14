@@ -37,9 +37,37 @@ The main application:
 
 1. Clone this repository
 2. Open the project in e2 studio
+   In e² studio go to File -> Import..., choose "Existing Projects into Workspace" and browse to the project you’ve just downloaded, then click Finish:
+   
+<p align="center">
+  <img src="images/1.png" height="500">
+  <img src="images/2.png" height="500">
+</p>
+
+After importing your project, open the configuration.xml file to access the board configurator. Let's review some key settings that will be relevant for all your future RA0E1 Feather SoM projects. First of all, in the BSP tab, your project should have the Custom User Board and the R7FA0E1073CFJ device selected.
+
+<p align="center">
+  <img src="images/3.png" height="500">
+</p>
+
+Next, in the Pins tab, you may need to adjust this for future projects, based on what peripherals you want to enable. You can also set the pins as inputs or outputs and adjust their current drive capacity. For example, the LED is connected to P102 which is set to Output Mode. You can find its configuration in the Pin Selection menu ->Ports -> P1 -> P102.
+
+<p align="center">
+  <img src="images/4.png" height="500">
+</p>
+
 3. Connect your Zalmotek RA0E1 Feather board via USB
-4. Build the project
+4. 4. Build the project
 5. Flash the firmware to the board
+
+To run the project, click Generate Project Content, and then you can Build the project and Debug it. In the prompt that pops up, choose Debug as Renesas GDB Hardware Debugging. Click the Resume icon to begin executing the project. Reset the board and now the USR LED should be blinking.
+
+If you want to access the J-Link RTT terminal for the SEGGER's J-Link RTT interface, you must download the RTT Viewer (link: https://www.segger.com/downloads/jlink/). For that, open the application and configure it according to the model below.
+
+<p align="center">
+  <img src="images/5.png" height="500">
+  <img src="images/6.png" height="500">
+</p>
 
 ### Configuration
 
