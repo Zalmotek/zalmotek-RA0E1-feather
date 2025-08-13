@@ -19,25 +19,36 @@ The Feather SoM incorporates the classic Feather features: GPIOs (analog and dig
 
 The pinout for each port is as follows:
 
-
-| Pin | Function | Notes | Pin | Function | Notes |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| 1 | RESET |  |  |  |  |
-| 2 | VCC (3V3) |  |  |  |  |
-| 3 | AREF |  |  |  |  |
-| 4 | GND |  |  |  |  |
-| 5 | A0 | BSP_IO_PORT_00_PIN_08 | 17 | VBAT |  |
-| 6 | A1 | BSP_IO_PORT_00_PIN_09 | 18 | EN |  |
-| 7 | A2 | BSP_IO_PORT_00_PIN_12 | 19 | BUS |  |
-| 8 | A3 | BSP_IO_PORT_00_PIN_13 | 20 | D13 | BSP_IO_PORT_01_PIN_02 |
-| 9 | A4 | BSP_IO_PORT_00_PIN_14 | 21 | D12 | BSP_IO_PORT_01_PIN_03 |
-| 10 | A5 | BSP_IO_PORT_00_PIN_15 | 22 | D11 | BSP_IO_PORT_04_PIN_07 |
-| 11 | SCK | BSP_IO_PORT_01_PIN_12  | 23 | D10 | BSP_IO_PORT_02_PIN_01 |
-| 12 | MOSI | BSP_IO_PORT_01_PIN_09 | 24 | D9 | BSP_IO_PORT_03_PIN_00 |
-| 13 | MISO| BSP_IO_PORT_01_PIN_10 | 25 | D6 | BSP_IO_PORT_01_PIN_08 |
-| 14 | RX | BSP_IO_PORT_01_PIN_00 | 26 | D5 | BSP_IO_PORT_02_PIN_00 |
-| 15 | TX | BSP_IO_PORT_01_PIN_01 | 27 | SCL | BSP_IO_PORT_09_PIN_14 |
-| 16 | D14 (SPARE) | BSP_IO_PORT_02_PIN_15 | 28 | SDA | BSP_IO_PORT_09_PIN_13 |
+| Pin | Function | Notes |
+| :-- | :-- | :-- |
+| 1  | RESET |  |
+| 2  | VCC (3V3) |  |
+| 3  | AREF |  |
+| 4  | GND |  |
+| 5  | A0 | BSP_IO_PORT_00_PIN_08 |
+| 6  | A1 | BSP_IO_PORT_00_PIN_09 |
+| 7  | A2 | BSP_IO_PORT_00_PIN_12 |
+| 8  | A3 | BSP_IO_PORT_00_PIN_13 |
+| 9  | A4 | BSP_IO_PORT_00_PIN_14 |
+| 10 | A5 | BSP_IO_PORT_00_PIN_15 |
+| 11 | SCK | BSP_IO_PORT_01_PIN_12 |
+| 12 | MOSI | BSP_IO_PORT_01_PIN_09 |
+| 13 | MISO | BSP_IO_PORT_01_PIN_10 |
+| 14 | RX | BSP_IO_PORT_01_PIN_00 |
+| 15 | TX | BSP_IO_PORT_01_PIN_01 |
+| 16 | D14 (SPARE) | BSP_IO_PORT_02_PIN_15 |
+| 17 | VBAT |  |
+| 18 | EN |  |
+| 19 | BUS |  |
+| 20 | D13 | BSP_IO_PORT_01_PIN_02 |
+| 21 | D12 | BSP_IO_PORT_01_PIN_03 |
+| 22 | D11 | BSP_IO_PORT_04_PIN_07 |
+| 23 | D10 | BSP_IO_PORT_02_PIN_01 |
+| 24 | D9  | BSP_IO_PORT_03_PIN_00 |
+| 25 | D6  | BSP_IO_PORT_01_PIN_08 |
+| 26 | D5  | BSP_IO_PORT_02_PIN_00 |
+| 27 | SCL | BSP_IO_PORT_09_PIN_14 |
+| 28 | SDA | BSP_IO_PORT_09_PIN_13 |
 
 ## 🐣🏁 Quick Start Guide
 
